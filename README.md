@@ -38,9 +38,9 @@ To run this database locally:
 
 *Install SQL Server and SSMS.*
 
-Open schema.sql and execute it to create the database.
+Open schema.sql and execute it to create the database and related tables.
 
-Run triggers.sql and stored_procedures.sql to add functionality.
+Run views.sql, triggers.sql and stored_procedures.sql to add functionality.
 
 (Optional) Insert sample data using seed_data.sql.<br><br>
 
