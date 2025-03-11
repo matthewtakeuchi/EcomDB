@@ -16,6 +16,8 @@ This project is a relational SQL Server Management Studio (SSMS) database design
 
 *schema.sql* → Defines database tables, constraints, & relationships necessary to maintain star schema design
 
+*views.sql* → Defines database views used for easier data viewing and simplifies joins
+
 *triggers.sql* → Includes triggers for automation, creates custom P/L & Inventory Tracking
 
 *stored_procedures.sql* → Contains stored procedures for CRUD operations, as well as guides to using the system<br><br>
