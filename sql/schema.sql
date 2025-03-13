@@ -18,6 +18,8 @@ USE [Ecom]
 GO
 
 /****** Object:  Table [dbo].[Buys] ******/
+--used to store all inventory bought at any given time. most columns are self-explanatory except for [refunded?], which is whether or not the item was returned and a refund was received. price effective is a computed column that calculates price per unit vs total for all units paid.   
+	
 SET ANSI_NULLS ON
 GO
 
