@@ -30,7 +30,7 @@ This project is a relational SQL Server Management Studio (SSMS) database design
 
 *stored_procedures.md* → Describes available stored procedures
 
-*queries.md* → Contains example queries<br><br>
+*queries.md* → Contains example queries commonly used in the database<br><br>
 
 More details can be found within the comments inside each file.<br><br>
 
