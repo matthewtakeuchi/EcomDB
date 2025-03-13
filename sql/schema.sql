@@ -1,3 +1,19 @@
+CREATE DATABASE Ecom
+/*ON 
+( NAME = ecom_data, 
+  FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\ecom.mdf',
+  SIZE = 10MB, 
+  MAXSIZE = 100MB, 
+  FILEGROWTH = 10MB )
+LOG ON 
+( NAME = ecom_log, 
+  FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\ecom.ldf',
+  SIZE = 5MB, 
+  MAXSIZE = 50MB, 
+  FILEGROWTH = 5MB );*/-- manipulate this as needed for filegrowth, location, mdf/ldf file locations
+;
+GO
+
 USE [Ecom]
 GO
 
