@@ -20,7 +20,9 @@ This project is a relational SQL Server Management Studio (SSMS) database design
 
 *triggers.sql* → Includes triggers for automation, creates custom P/L & Inventory Tracking
 
-*stored_procedures.sql* → Contains stored procedures for CRUD operations, as well as guides to using the system<br><br>
+*stored_procedures.sql* → Contains stored procedures for CRUD operations, as well as guides to using the system<br>
+
+*seed.sql* → Contains seed data for database testing<br><br>
 
 **📂 /docs** - Provides detailed documentation
 
@@ -42,7 +44,7 @@ Open schema.sql and execute it to create the database and related tables.
 
 Run views.sql, triggers.sql and stored_procedures.sql to add functionality.
 
-(Optional) Insert sample data using seed_data.sql.<br><br>
+(Optional) Insert sample data using seed.sql.<br><br>
 
 **Future Enhancements**
 
