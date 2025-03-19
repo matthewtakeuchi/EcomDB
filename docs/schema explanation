@@ -1,0 +1,5 @@
+THe purpose of this document is to explain the database schema and give clarity on how to use the system. 
+
+Buys- User Table
+Used to track all items bought for selling or re-selling. 
+[Refunded?]- Tracks to see if an item purchased for sale or resale has been returned and refunded. This boolean lets us know whether we should include it in our inventory count, and in our profit/loss calculations. 
